@@ -54,3 +54,5 @@ High School Diploma, GPA: 3.5
 ## References
 
 Available upon request.
+
+   Formatted into Markdown with help from Claude (Anthropic, 2026); written by me.
